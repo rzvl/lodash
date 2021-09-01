@@ -1,4 +1,4 @@
-# Loadash Implementation
+# Lodash Implementation
 
 
 ## General Information
